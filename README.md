@@ -1,4 +1,4 @@
-<span style="background-color: #6f42c1; padding: 5px;">Hello there ☕✨</span>
+<span style="background-color: #6f42c1; color: white; padding: 10px;"># Hello there ☕✨</span>
 
 ## Sobre mim
 - 👨‍💻 Sou um desenvolvedor especializado em sistemas web, com foco em criar soluções robustas e eficientes.
